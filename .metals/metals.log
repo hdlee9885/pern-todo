@@ -1,0 +1,4 @@
+[0m2021.04.13 10:06:13 INFO  Started: Metals version 0.10.1 in workspace '/Users/hdlee9885/pern-todo' for client vscode 1.55.1.[0m
+[0m2021.04.13 10:06:22 INFO  time: initialize in 8.47s[0m
+[0m2021.04.13 10:06:32 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.13 10:06:32 WARN  no build tool detected in workspace '/Users/hdlee9885/pern-todo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
